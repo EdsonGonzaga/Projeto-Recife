@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.img-mercado-artesanato {
+    width: 700px;
+    height: 500px;
+}
+
+p {
+    margin: 20px;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+footer h3 {
+    text-align: center;
+}
